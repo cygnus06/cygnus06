@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I am Jahnavi, a Computers and Communications undergrad.<br><br>🧐 I am currently learning Networking and Unix shell programming.<br>✨ I am familiar with coding and problem solving in C and java.<br>🚀 I am an avid space enthusiast.
+Hi! I am Jahnavi, a Computers and Communications undergrad.<br><br>🧐 I am currently learning NLP with NLTK, Embedded software.<br>✨ I am familiar with coding and problem solving in C and java.<br>🚀 I am an avid space enthusiast.
 
 
 # 💻 Tech Stack:
